@@ -29,6 +29,8 @@ If the weights represent the likelihood of disease transmission or some ecologic
 Resource Accessibility:
 If the weights represent resource availability (e.g., food sources), Dijkstra's algorithm could help identify optimal paths for individuals to access these resources. This can provide insights into foraging behavior and resource utilization within the population.
 
+In summary, Dijkstra's algorithm on this contact network can help analyze and understand various ecological processes related to movement, disease spread, and resource utilization in barn swallow populations. The directed graph provides a structured representation for such analyses.
+
 Data Citation:
 
  @inproceedings{nr-aaai15,
@@ -38,5 +40,3 @@ Data Citation:
       url={http://networkrepository.com},
       year={2015}
   }
-
-In summary, Dijkstra's algorithm on this contact network can help analyze and understand various ecological processes related to movement, disease spread, and resource utilization in barn swallow populations. The directed graph provides a structured representation for such analyses.
